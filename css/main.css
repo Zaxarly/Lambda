@@ -143,16 +143,9 @@ html{
     justify-content: center;
 
 }
-.restaurant img{
-    text-align: right;
-}
 
-
-.food_n_divider {
-    align-items: center;
-}
 .chop{
-    padding-left: 75px; ;
+    padding-left: 75px;
 }
 .nav li{
     display: flex;
